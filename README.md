@@ -66,12 +66,18 @@ The main JavaScript file handles:
 6. Manage your cart and enjoy the UI features.
 
 ---
+## Live Demo
 
+Check out the live version of the project here:  
+[Food Store Web App](https://food-store-gold.vercel.app/)
+
+---
 ## Contact
 
 Feel free to reach out:
 
 - GitHub: https://github.com/mohammadkhani76/food-store
+- LinkedIn: https://www.linkedin.com/in/nazanin-mohammadkhani76
 - Email: nazanin.khani2@gmail.com
 
 ---

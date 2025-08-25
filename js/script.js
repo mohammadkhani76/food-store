@@ -319,7 +319,7 @@ function loadFavListFromLocalStorage() {
  * const load = localStorage.getItem("favourite");
     if (load) {
       users = JSON.parse(load);
-      console.log(result);
+      console.log(users);
     } else {
       users = [];
     }
