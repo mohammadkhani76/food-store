@@ -71,7 +71,7 @@ The main JavaScript file handles:
 
 Feel free to reach out:
 
-- GitHub: https://github.com/mohammadkhani76/food-store 
+- GitHub: https://github.com/mohammadkhani76/food-store
 - Email: nazanin.khani2@gmail.com
 
 ---
